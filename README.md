@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jairordonez
 - 👀 I’m interested in Business Intelligence and Data Science
-- 🌱 I’m currently learning on Looker, PowerBI, Python and R
+- 🌱 I’m currently learning on AWS, PowerBI, Python and R
 
 
 <!---
